@@ -1,1 +1,1 @@
-
+This folder contains everything needed to run the simulation. In the "world" folder the .wbt file can be found along with the ar_tag.jpg. The code folder contains all of the different controllers I have made, from PID to Q-learning.

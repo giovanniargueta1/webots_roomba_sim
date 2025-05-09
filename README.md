@@ -11,3 +11,5 @@ This repo contains all the source code/materials regarding the simulation and re
 
 
 Please head over to the instructions folder if you want to recreate the simulation in Webots Simulator- Verision R2021B. 
+
+Head over to the Real_Roomba folder if you want to learn more about the real life implementation details of this project.

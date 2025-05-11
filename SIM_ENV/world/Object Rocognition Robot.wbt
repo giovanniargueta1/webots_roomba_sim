@@ -370,7 +370,7 @@ Solid {
   # use the exact same Shape as the collision primitive
   boundingObject USE tennis_ball_shape
   physics Physics {
-    density 800
+    density 12000
   }
 }
 
@@ -396,7 +396,7 @@ Solid {
   # use the exact same Shape as the collision primitive
   boundingObject USE tennis_ball_shape
   physics Physics {
-    density 800
+    density 1800
   }
 }
 
